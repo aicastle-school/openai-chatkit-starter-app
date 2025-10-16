@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AgentKit demo",
-  description: "Demo of ChatKit with hosted workflow",
+  title: "OpenAI Agent School",
+  description: "OpenAI Agent School에 오신 것을 환영합니다.",
 };
 
 export default function RootLayout({
